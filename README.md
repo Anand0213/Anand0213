@@ -25,7 +25,17 @@ I build scalable, secure, and performance-driven applications — from intuitive
 ### 📌 Pinned Projects
 1. **SyllabusChatbotUsingRAG** ( **[FrontEnd](https://github.com/Anand0213/SyllabusChatbotUsingRAGFrontEnd.git)** + **[Backend](https://github.com/Anand0213/SyllabusChatbotUsingRAGBackEnd.git)**)— Flask + React + MongoDB chatbot using RAG.  
 2.  **ScheduleManagementRemainderSystemUi** ( **[FrontEnd](https://github.com/Anand0213/ScheduleManagementRemainderSystemUi.git)** + **[Backend](https://github.com/Anand0213/ScheduleManagementRemainderSystemApi.git)**)— Real-time scheduling and reminders in Node.js and React.
-3. **[ServerlessParticipationVerificationSystem](https://github.com/Anand0213/ServerlessParticipationVerificationSystem.git)** — AWS Lambda + Rekognition-based participation verification system.  
+3. **[ServerlessParticipationVerificationSystem](https://github.com/Anand0213/ServerlessParticipationVerificationSystem.git)** — AWS Lambda + Rekognition-based participation verification system.
+
+   
+## 🎓 Acheivements
+
+### 📱 Flutter Mobile Applications Development  
+[![Flutter Badge](https://images.credly.com/your_flutter_badge_image.png)](https://www.credly.com/badges/d8917e57-ace5-40c2-adba-8a9901337f27/linked_in_profile)
+
+
+### ☁️ Cloud Web Applications Development  
+[![Cloud Badge](https://images.credly.com/your_cloud_badge_image.png)](https://www.credly.com/badges/e6b3c40f-37ff-4506-95a5-06a6d812ef28/public_url)
 
 
 ### 🤝 Connect with me  
