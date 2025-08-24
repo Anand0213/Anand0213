@@ -18,7 +18,15 @@ I build scalable, secure, and performance-driven applications — from intuitive
 ### 🚀 Recent Highlights
 - Improved backend performance by **38%** and release cycles by **75%** with API optimization & CI/CD.  
 - Deployed serverless verification systems on AWS using **Lambda** + **Rekognition**.  
-- Built ETL workflows with Python + AWS for real-time data sync.  
+- Built ETL workflows with Python + AWS for real-time data sync.
+  
+---
+
+### 📌 Pinned Projects
+1. **SyllabusChatbotUsingRAG** ( **[FrontEnd](https://github.com/Anand0213/SyllabusChatbotUsingRAGFrontEnd.git)** + **[Backend](https://github.com/Anand0213/SyllabusChatbotUsingRAGBackEnd.git)**)— Flask + React + MongoDB chatbot using RAG.  
+2.  **ScheduleManagementRemainderSystemUi** ( **[FrontEnd](https://github.com/Anand0213/ScheduleManagementRemainderSystemUi.git)** + **[Backend](https://github.com/Anand0213/ScheduleManagementRemainderSystemApi.git)**)— Real-time scheduling and reminders in Node.js and React.
+3. **[ServerlessParticipationVerificationSystem](https://github.com/Anand0213/ServerlessParticipationVerificationSystem.git)** — AWS Lambda + Rekognition-based participation verification system.  
+
 
 ---
 
