@@ -31,7 +31,6 @@ I build scalable, secure, and performance-driven applications — from intuitive
 ---
 
 ### 📈 GitHub Stats  
-![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anand0213&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anand0213&layout=compact&theme=radical)  
 
 ---
